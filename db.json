@@ -1,0 +1,57 @@
+{
+  "produts": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "name": "Geladeira ",
+      "price": "1890.00",
+      "id": 4
+    },
+    {
+      "name": "novo",
+      "price": "55.50",
+      "id": 5
+    },
+    {
+      "name": "nome 1",
+      "price": "45.50",
+      "id": 6
+    },
+    {
+      "name": "fsdfd",
+      "price": "55.50",
+      "id": 7
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "name": "Alexandre",
+      "login": "ale",
+      "senha": "123"
+    }
+  ],
+  "contas": [
+    {
+      "id": 1,
+      "agencia": "2228",
+      "conta": "25190-6",
+      "operacao": "013"
+    },
+    {
+      "agencia": "2225",
+      "conta": "7867867",
+      "operacao": "687",
+      "id": 2
+    },
+    {
+      "agencia": "67637",
+      "conta": "7897",
+      "operacao": "4654654",
+      "id": 3
+    }
+  ]
+}
